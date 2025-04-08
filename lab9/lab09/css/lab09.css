@@ -162,3 +162,16 @@ footer {
 	text-align: center;
 	clear: both;
 }
+
+.award{
+	/* step 1: define the type of position to be used */
+	position:fixed;
+	/* step 2: define the offsets (from:) */
+	top: 100px;
+	right: 200px;
+}
+
+.img-glasses{
+	position: relative;
+	top: 20px;
+}
