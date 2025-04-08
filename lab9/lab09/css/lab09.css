@@ -181,7 +181,7 @@ footer {
 	height: 600px;
 	background-color: aliceblue;
 	color: white;
-	position: fixed;
+	position: absolute;
 	top: 100px;
 	left: 100px;
 }
