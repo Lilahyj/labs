@@ -175,3 +175,13 @@ footer {
 	position: relative;
 	top: 20px;
 }
+
+.adv{
+	width: 800px;
+	height: 600px;
+	background-color: aliceblue;
+	color: white;
+	position: fixed;
+	top: 100px;
+	left: 100px;
+}
